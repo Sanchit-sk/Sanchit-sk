@@ -22,6 +22,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-sk&langs_count_private=true&theme=radical&card_width=445)<br><br>
 ## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <a href="https://www.linkedin.com/in/sanchit-khurana-72767a193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanchit linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sanchit4545/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="Sanchit Instagram" height="30" width="40" /></a>
+<a href="https://twitter.com/Sanchit80884039/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="Sanchit Twitter" height="30" width="40" /></a>
 <!-- <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanchit-sk&repo=Sanchit-sk&theme=radical)](https://github.com/Sanchit-sk/Sanchit-sk) -->
 </div>
